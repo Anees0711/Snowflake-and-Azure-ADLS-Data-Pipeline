@@ -18,18 +18,18 @@ Raw Data → Bronze → Silver → Gold → Insights
 
 ## Project Structure
 
-snowflake-azureadls-project/
-│
-├── sql/
-│   - 01_setup/        # Database, schema, stage, stream creation
-│   - 02_load/         # Data loading scripts
-│   - 03_transform/    # Data transformation (Silver layer)
-│   - 04_gold/         # Final views and aggregations
-│
-├── data/
-│   - bronze/          # Raw input data
-│   - silver/          # Cleaned datasets
-│   - gold/            # Final outputs
+snowflake-azureadls-project
+
+ # sql/
+  - 01_setup/        # Database, schema, stage, stream creation
+  - 02_load/         # Data loading scripts
+  - 03_transform/    # Data transformation (Silver layer)
+  - 04_gold/         # Final views and aggregations
+
+# data/
+  - bronze/          # Raw input data
+  - silver/          # Cleaned datasets
+  - gold/            # Final outputs
 
 
 ## Key Features
