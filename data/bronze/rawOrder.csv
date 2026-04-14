@@ -1,0 +1,101 @@
+CUSTOMER_ID,PAYMENT_METHOD,PRODUCT_ID,QUANTITY,STORE_TYPE,TOTAL_AMOUNT,TRANSACTION_DATE,TRANSACTION_ID,SOURCE_FILE_NAME,SOURCE_FILE_ROW_NUMBER,INGESTION_TIMESTAMP
+802,Debit Card,425,1,Physical Store,363.4,2020-07-27,TRX000001,Order/transaction.snappy.parquet,1,2026-04-14 06:44:13.419
+858,Credit Card,280,6,Physical Store,758.18,2022-08-10,TRX000002,Order/transaction.snappy.parquet,2,2026-04-14 06:44:13.419
+658,Bank Transfer,694,9,Online,748.66,2020-05-22,TRX000003,Order/transaction.snappy.parquet,3,2026-04-14 06:44:13.419
+516,Bank Transfer,930,4,Physical Store,933.78,,TRX000004,Order/transaction.snappy.parquet,4,2026-04-14 06:44:13.419
+368,PayPal,104,10,Physical Store,137.28,2022-06-24,TRX000005,Order/transaction.snappy.parquet,5,2026-04-14 06:44:13.419
+606,Credit Card,409,6,Online,556.88,2020-10-14,TRX000006,Order/transaction.snappy.parquet,6,2026-04-14 06:44:13.419
+535,Credit Card,487,7,Physical Store,246.29,2023-08-19,TRX000007,Order/transaction.snappy.parquet,7,2026-04-14 06:44:13.419
+87,Credit Card,630,8,Physical Store,-416.82,2020-04-18,TRX000008,Order/transaction.snappy.parquet,8,2026-04-14 06:44:13.419
+383,Cash,617,10,Physical Store,405.05,2021-02-13,TRX000009,Order/transaction.snappy.parquet,9,2026-04-14 06:44:13.419
+725,PayPal,938,1,Online,410.03,2020-03-18,TRX000010,Order/transaction.snappy.parquet,10,2026-04-14 06:44:13.419
+687,Credit Card,457,8,Physical Store,269.88,2020-06-27,TRX000011,Order/transaction.snappy.parquet,11,2026-04-14 06:44:13.419
+746,Bank Transfer,552,10,Physical Store,801.14,2021-10-20,TRX000012,Order/transaction.snappy.parquet,12,2026-04-14 06:44:13.419
+16,PayPal,681,5,Online,421.51,2021-06-01,TRX000013,Order/transaction.snappy.parquet,13,2026-04-14 06:44:13.419
+458,Bank Transfer,811,4,Physical Store,262.38,2023-12-14,TRX000014,Order/transaction.snappy.parquet,14,2026-04-14 06:44:13.419
+391,Debit Card,84,2,Online,867.84,2021-03-26,TRX000015,Order/transaction.snappy.parquet,15,2026-04-14 06:44:13.419
+899,Credit Card,194,10,Physical Store,212.75,2023-10-13,TRX000016,Order/transaction.snappy.parquet,16,2026-04-14 06:44:13.419
+296,Debit Card,646,10,Physical Store,498.83,2023-08-26,TRX000017,Order/transaction.snappy.parquet,17,2026-04-14 06:44:13.419
+483,PayPal,658,10,Online,91.09,2023-06-05,TRX000018,Order/transaction.snappy.parquet,18,2026-04-14 06:44:13.419
+783,PayPal,406,9,Physical Store,610.69,2023-06-27,TRX000019,Order/transaction.snappy.parquet,19,2026-04-14 06:44:13.419
+984,Credit Card,522,7,Online,804.71,2020-10-14,TRX000020,Order/transaction.snappy.parquet,20,2026-04-14 06:44:13.419
+462,PayPal,666,10,Online,988.44,2023-04-07,TRX000021,Order/transaction.snappy.parquet,21,2026-04-14 06:44:13.419
+253,Credit Card,455,2,Physical Store,876.7,2021-12-29,TRX000022,Order/transaction.snappy.parquet,22,2026-04-14 06:44:13.419
+810,Debit Card,720,3,Online,44.16,2023-07-02,TRX000023,Order/transaction.snappy.parquet,23,2026-04-14 06:44:13.419
+931,Bank Transfer,870,5,Online,366.96,2023-01-15,TRX000024,Order/transaction.snappy.parquet,24,2026-04-14 06:44:13.419
+489,Bank Transfer,392,4,Physical Store,854.16,2023-03-01,TRX000025,Order/transaction.snappy.parquet,25,2026-04-14 06:44:13.419
+800,Bank Transfer,404,7,Physical Store,547.84,2022-10-21,TRX000026,Order/transaction.snappy.parquet,26,2026-04-14 06:44:13.419
+560,Credit Card,5,6,Online,491.86,2023-12-11,TRX000027,Order/transaction.snappy.parquet,27,2026-04-14 06:44:13.419
+921,Cash,460,5,Online,739.54,2023-10-18,TRX000028,Order/transaction.snappy.parquet,28,2026-04-14 06:44:13.419
+515,PayPal,616,9,Online,319.22,2020-04-09,TRX000029,Order/transaction.snappy.parquet,29,2026-04-14 06:44:13.419
+973,Bank Transfer,708,1,Physical Store,737.1,2023-01-05,TRX000030,Order/transaction.snappy.parquet,30,2026-04-14 06:44:13.419
+903,Credit Card,729,5,Physical Store,929.07,2020-12-21,TRX000031,Order/transaction.snappy.parquet,31,2026-04-14 06:44:13.419
+765,Credit Card,116,1,Physical Store,849.13,2021-10-07,TRX000032,Order/transaction.snappy.parquet,32,2026-04-14 06:44:13.419
+727,PayPal,806,8,Physical Store,890.95,2022-07-07,TRX000033,Order/transaction.snappy.parquet,33,2026-04-14 06:44:13.419
+327,Bank Transfer,14,3,Physical Store,756.04,2021-02-08,TRX000034,Order/transaction.snappy.parquet,34,2026-04-14 06:44:13.419
+941,Cash,46,4,Online,782.36,2021-02-09,TRX000035,Order/transaction.snappy.parquet,35,2026-04-14 06:44:13.419
+463,Bank Transfer,978,9,Online,320.96,2022-11-23,TRX000036,Order/transaction.snappy.parquet,36,2026-04-14 06:44:13.419
+419,Bank Transfer,57,3,Physical Store,980.32,2020-05-13,TRX000037,Order/transaction.snappy.parquet,37,2026-04-14 06:44:13.419
+637,Credit Card,760,9,Online,28.94,2022-06-23,TRX000038,Order/transaction.snappy.parquet,38,2026-04-14 06:44:13.419
+158,PayPal,356,1,Online,284.36,2020-05-28,TRX000039,Order/transaction.snappy.parquet,39,2026-04-14 06:44:13.419
+557,Cash,933,8,Physical Store,154.84,2020-01-19,TRX000040,Order/transaction.snappy.parquet,40,2026-04-14 06:44:13.419
+227,PayPal,41,2,Online,263.01,2023-10-05,TRX000041,Order/transaction.snappy.parquet,41,2026-04-14 06:44:13.419
+824,PayPal,972,3,Online,233.21,2020-06-12,TRX000042,Order/transaction.snappy.parquet,42,2026-04-14 06:44:13.419
+278,Bank Transfer,936,1,Physical Store,361.39,2020-09-09,TRX000043,Order/transaction.snappy.parquet,43,2026-04-14 06:44:13.419
+536,Credit Card,300,4,Physical Store,858.88,2020-06-21,TRX000044,Order/transaction.snappy.parquet,44,2026-04-14 06:44:13.419
+740,PayPal,590,7,Online,553.95,2021-01-06,TRX000045,Order/transaction.snappy.parquet,45,2026-04-14 06:44:13.419
+664,PayPal,208,5,Physical Store,543.63,2020-07-06,TRX000046,Order/transaction.snappy.parquet,46,2026-04-14 06:44:13.419
+932,PayPal,805,3,Physical Store,-171.45,2023-09-19,TRX000047,Order/transaction.snappy.parquet,47,2026-04-14 06:44:13.419
+582,PayPal,157,9,Physical Store,691.84,2023-02-07,TRX000048,Order/transaction.snappy.parquet,48,2026-04-14 06:44:13.419
+256,Debit Card,754,3,Physical Store,192.03,2023-11-08,TRX000049,Order/transaction.snappy.parquet,49,2026-04-14 06:44:13.419
+580,Cash,463,9,Online,310.87,2023-04-05,TRX000050,Order/transaction.snappy.parquet,50,2026-04-14 06:44:13.419
+391,Bank Transfer,834,1,Physical Store,883.77,2022-08-20,TRX000051,Order/transaction.snappy.parquet,51,2026-04-14 06:44:13.419
+181,Credit Card,518,10,Online,529.72,2023-09-15,TRX000052,Order/transaction.snappy.parquet,52,2026-04-14 06:44:13.419
+136,Bank Transfer,329,8,Physical Store,606.81,2023-04-20,TRX000053,Order/transaction.snappy.parquet,53,2026-04-14 06:44:13.419
+984,Cash,275,7,Online,447.76,2020-03-12,TRX000054,Order/transaction.snappy.parquet,54,2026-04-14 06:44:13.419
+693,Debit Card,981,1,Physical Store,84.27,2023-04-13,TRX000055,Order/transaction.snappy.parquet,55,2026-04-14 06:44:13.419
+820,Credit Card,785,7,Physical Store,46.08,2022-03-26,TRX000056,Order/transaction.snappy.parquet,56,2026-04-14 06:44:13.419
+658,Credit Card,128,6,Online,834.71,2023-09-11,TRX000057,Order/transaction.snappy.parquet,57,2026-04-14 06:44:13.419
+381,Cash,595,7,Physical Store,20.86,2023-08-17,TRX000058,Order/transaction.snappy.parquet,58,2026-04-14 06:44:13.419
+456,PayPal,951,8,Physical Store,-610.69,2023-03-08,TRX000059,Order/transaction.snappy.parquet,59,2026-04-14 06:44:13.419
+693,Credit Card,695,9,Physical Store,907.85,2023-06-21,TRX000060,Order/transaction.snappy.parquet,60,2026-04-14 06:44:13.419
+602,Bank Transfer,225,2,Physical Store,435.53,2022-09-27,TRX000061,Order/transaction.snappy.parquet,61,2026-04-14 06:44:13.419
+306,Cash,563,1,Online,170.07,2021-09-15,TRX000062,Order/transaction.snappy.parquet,62,2026-04-14 06:44:13.419
+234,Bank Transfer,67,2,Online,550.83,2021-09-12,TRX000063,Order/transaction.snappy.parquet,63,2026-04-14 06:44:13.419
+923,Debit Card,536,2,Online,210.65,2023-04-07,TRX000064,Order/transaction.snappy.parquet,64,2026-04-14 06:44:13.419
+188,Bank Transfer,676,3,Physical Store,334.27,2022-03-22,TRX000065,Order/transaction.snappy.parquet,65,2026-04-14 06:44:13.419
+965,Debit Card,635,5,Online,240.38,2023-12-23,TRX000066,Order/transaction.snappy.parquet,66,2026-04-14 06:44:13.419
+822,Credit Card,68,2,Physical Store,90.54,2023-08-15,TRX000067,Order/transaction.snappy.parquet,67,2026-04-14 06:44:13.419
+484,PayPal,9,9,Online,504.27,2022-07-02,TRX000068,Order/transaction.snappy.parquet,68,2026-04-14 06:44:13.419
+530,Debit Card,456,1,Physical Store,430.63,2022-02-10,TRX000069,Order/transaction.snappy.parquet,69,2026-04-14 06:44:13.419
+672,Credit Card,275,2,Physical Store,613.98,2021-01-27,TRX000070,Order/transaction.snappy.parquet,70,2026-04-14 06:44:13.419
+708,Cash,234,8,Online,222.59,2023-11-16,TRX000071,Order/transaction.snappy.parquet,71,2026-04-14 06:44:13.419
+201,Cash,823,9,Physical Store,127.31,2022-12-04,TRX000072,Order/transaction.snappy.parquet,72,2026-04-14 06:44:13.419
+808,Credit Card,583,2,Physical Store,34.49,2023-01-23,TRX000073,Order/transaction.snappy.parquet,73,2026-04-14 06:44:13.419
+588,Cash,111,10,Physical Store,709.85,2021-09-10,TRX000074,Order/transaction.snappy.parquet,74,2026-04-14 06:44:13.419
+577,Debit Card,57,6,Online,-604.02,2023-07-21,TRX000075,Order/transaction.snappy.parquet,75,2026-04-14 06:44:13.419
+679,Cash,844,5,Online,401.97,2022-04-07,TRX000076,Order/transaction.snappy.parquet,76,2026-04-14 06:44:13.419
+625,Bank Transfer,26,1,Online,120.18,2021-06-14,TRX000077,Order/transaction.snappy.parquet,77,2026-04-14 06:44:13.419
+265,Cash,863,6,Online,340.71,2020-06-09,TRX000078,Order/transaction.snappy.parquet,78,2026-04-14 06:44:13.419
+577,Debit Card,690,9,Online,-811.65,2020-03-08,TRX000079,Order/transaction.snappy.parquet,79,2026-04-14 06:44:13.419
+388,Cash,99,10,Online,713.56,2022-04-26,TRX000080,Order/transaction.snappy.parquet,80,2026-04-14 06:44:13.419
+99,Bank Transfer,99,4,Physical Store,403.28,2022-10-02,TRX000081,Order/transaction.snappy.parquet,81,2026-04-14 06:44:13.419
+475,Debit Card,510,1,Online,623.63,2021-02-24,TRX000082,Order/transaction.snappy.parquet,82,2026-04-14 06:44:13.419
+452,Credit Card,81,1,Physical Store,802.43,2023-02-25,TRX000083,Order/transaction.snappy.parquet,83,2026-04-14 06:44:13.419
+785,PayPal,764,4,Online,585.81,2022-06-28,TRX000084,Order/transaction.snappy.parquet,84,2026-04-14 06:44:13.419
+841,Debit Card,651,6,Physical Store,544.8,2023-08-04,TRX000085,Order/transaction.snappy.parquet,85,2026-04-14 06:44:13.419
+867,Bank Transfer,90,10,Physical Store,533.25,2021-09-17,TRX000086,Order/transaction.snappy.parquet,86,2026-04-14 06:44:13.419
+938,PayPal,679,2,Physical Store,972.33,2022-08-29,TRX000087,Order/transaction.snappy.parquet,87,2026-04-14 06:44:13.419
+853,PayPal,391,8,Online,38.82,2020-06-09,TRX000088,Order/transaction.snappy.parquet,88,2026-04-14 06:44:13.419
+619,Debit Card,885,7,Online,176.88,2020-09-28,TRX000089,Order/transaction.snappy.parquet,89,2026-04-14 06:44:13.419
+93,PayPal,665,3,Physical Store,943.61,2023-01-17,TRX000090,Order/transaction.snappy.parquet,90,2026-04-14 06:44:13.419
+504,Debit Card,678,8,Online,-885.87,2021-07-14,TRX000091,Order/transaction.snappy.parquet,91,2026-04-14 06:44:13.419
+319,Debit Card,555,3,Online,320.84,2020-09-28,TRX000092,Order/transaction.snappy.parquet,92,2026-04-14 06:44:13.419
+862,Cash,196,7,Online,290.73,2021-04-05,TRX000093,Order/transaction.snappy.parquet,93,2026-04-14 06:44:13.419
+372,Credit Card,209,2,Online,159.75,2022-05-03,TRX000094,Order/transaction.snappy.parquet,94,2026-04-14 06:44:13.419
+764,PayPal,602,5,Online,297.15,2021-09-30,TRX000095,Order/transaction.snappy.parquet,95,2026-04-14 06:44:13.419
+31,Cash,832,2,Online,758.25,2023-11-09,TRX000096,Order/transaction.snappy.parquet,96,2026-04-14 06:44:13.419
+12,Credit Card,697,8,Online,275.01,2021-01-01,TRX000097,Order/transaction.snappy.parquet,97,2026-04-14 06:44:13.419
+554,Credit Card,235,2,Physical Store,357.04,2023-04-21,TRX000098,Order/transaction.snappy.parquet,98,2026-04-14 06:44:13.419
+320,PayPal,239,10,Physical Store,689.15,2022-12-24,TRX000099,Order/transaction.snappy.parquet,99,2026-04-14 06:44:13.419
+121,Credit Card,383,6,Online,-990.37,,TRX000100,Order/transaction.snappy.parquet,100,2026-04-14 06:44:13.419
