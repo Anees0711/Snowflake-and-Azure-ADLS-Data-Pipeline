@@ -6,7 +6,7 @@ This project demonstrates an end-to-end data pipeline built using Snowflake and 
 
 The goal of the project is to simulate a real-world data engineering workflow where raw data is ingested, transformed, and structured into meaningful business insights using a Medallion Architecture (Bronze → Silver → Gold).
 
-🏗️ Architecture
+ ## Architecture
 
 The pipeline follows a layered approach:
 
@@ -16,7 +16,8 @@ Gold Layer → Business-level aggregated views
 Raw Data → Bronze → Silver → Gold → Insights
 
 
-📂 Project Structure
+## Project Structure
+
 snowflake-azureadls-project/
 │
 ├── sql/
@@ -31,7 +32,7 @@ snowflake-azureadls-project/
 │   - gold/            # Final outputs
 
 
-⚙️ Key Features
+## Key Features
 
 End-to-end data pipeline design
 Implementation of Medallion Architecture
@@ -42,7 +43,7 @@ Use of external stages and streams
 Clean separation of raw, processed, and final data
 
 
-🛠️ Tech Stack
+## Tech Stack
 
 Snowflake → Data warehouse
 Azure Data Lake Storage (ADLS) → Storage layer
@@ -51,7 +52,7 @@ Parquet / CSV / JSON → Data formats
 
 
 
-🔄 Pipeline Flow
+## Pipeline Flow
 
 Raw data is stored in ADLS
 Snowflake external stage is created
@@ -61,7 +62,7 @@ Aggregations and views are created in the Gold layer
 Final datasets are ready for analytics
 
 
-📊 Sample Outputs
+## Sample Outputs
 
 Customer-level insights
 Product-level transformations
@@ -69,7 +70,7 @@ Daily sales aggregation
 Clean structured datasets for reporting
 
 
-🎯 What I Learned
+## What I Learned
 
 Designing a production-style data pipeline
 Structuring projects using Medallion architecture
@@ -78,7 +79,7 @@ Working with Snowflake stages, streams, and SQL pipelines
 Organizing data for scalability and clarity
 
 
-📎 Use Case
+## Use Case
 
 This project can be used as a base for:
 
@@ -88,11 +89,10 @@ Business intelligence pipelines
 Real-time or batch data processing systems
 
 
-🤝 Connect
-
+## Connect 🤝 
 If you're working on data engineering or Snowflake projects, feel free to connect or discuss ideas.
 
 
-⭐ GitHub Tip
+## GitHub Tip ⭐ 
 
 If you find this project useful, consider giving it a ⭐
