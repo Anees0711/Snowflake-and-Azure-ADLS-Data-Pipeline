@@ -31,6 +31,8 @@ snowflake-azureadls-project
   - silver/          # Cleaned datasets
   - gold/            # Final outputs
 
+# screenshots/
+ - AZURE and Snowflake .png
 
 ## Key Features
 
