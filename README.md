@@ -1,4 +1,4 @@
-## Snowflake + Azure ADLS Data Pipeline Project
+# Data Engineer with Snowflake and Azure ADLS
 
 ## Project Overview
 
